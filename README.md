@@ -36,12 +36,7 @@ The EDA reveals patterns and trends that could guide Airbnb's decision-making, i
 ## Conclusion
 The Airbnb EDA project demonstrates the value of data analysis in understanding large datasets to drive business decisions and improve platform offerings.
 
-## License
-[Specify license here, e.g., MIT License]
 
----
-
- &#8203;:contentReference[oaicite:0]{index=0}&#8203;
 
 
 
